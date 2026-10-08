@@ -1,3 +1,4 @@
+'use client';
 import React from 'react';
 import { Github, Mail, Folder, Gamepad2, Award, Terminal } from 'lucide-react';
 
